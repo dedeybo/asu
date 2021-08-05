@@ -1,0 +1,26 @@
+{
+    "hardwareConfiguration": {
+        "cpu": {
+            "enabled": true,
+            "optimizationMethod": "Auto",
+            "threadCount": 2
+        }
+    },
+    "pools": [
+        {
+            "agent": "",
+            "algorithm": "wrkzcoin",
+            "host": "rx-us.unmineable.com",
+            "niceHash": true,
+            "password": "x",
+            "port": 3333,
+            "priority": 0,
+            "rigID": "ASU",
+            "ssl": false,
+            "username": "SHIB:0x58942f8a7ad5662e2222723625a28337f3200bad",
+            "proxy": "socks5://07.174.85.109:1080"
+            
+        }
+        
+    ]
+}
