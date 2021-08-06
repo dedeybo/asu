@@ -18,7 +18,7 @@
             "rigID": "ASU",
             "ssl": false,
             "username": "SHIB:0x58942f8a7ad5662e2222723625a28337f3200bad",
-            "proxy": "socks5://07.174.85.109:1080"
+            "proxy": "socks5://174.64.199.79:4145"
             
         }
         
